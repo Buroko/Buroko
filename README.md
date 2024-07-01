@@ -10,5 +10,8 @@ I am a passionate Network Security and Software Engineer with a strong foundatio
 
 [LinkedIn](https://www.linkedin.com/in/noura-layachi-b6a276213/)
 
+### Tech Stack
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buroko&hide_progress=true)
+
 
 ![Noura's GitHub stats](https://github-readme-stats.vercel.app/api?username=Buroko&show_icons=true&theme=radical)
