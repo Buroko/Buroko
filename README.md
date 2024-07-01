@@ -1,16 +1,14 @@
-## Hi there 👋
+### 👋 Hi, I'm Noura 
 
-<!--
-**Buroko/Buroko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Network Security and Software Engineer with a strong foundation in computer science.
 
-Here are some ideas to get you started:
+🔭 Currently focusing on web scraping, including both static and dynamic pages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Continuously learning and experimenting with new technologies and methodologies.
+
+⚡ Proficient in various aspects of computer science, always eager to tackle new challenges.
+
+[LinkedIn](https://www.linkedin.com/in/noura-layachi-b6a276213/)
+
+
+![Noura's GitHub stats](https://github-readme-stats.vercel.app/api?username=Buroko&show_icons=true&theme=radical)
