@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 👋 Hi, I'm Noura <br><br>I am a passionate Network Security and Software Engineer with a strong foundation in computer science.<br><br>🔭 Currently focusing on web scraping, including both static and dynamic pages.<br><br>🌱 Continuously learning and experimenting with new technologies and methodologies.<br><br>⚡ Proficient in various aspects of computer science, always eager to tackle new challenges.<br><br>[LinkedIn](https://www.linkedin.com/in/noura-layachi-b6a276213/)
+### 👋 Hi, I'm Noura <br><br>I am a passionate Network Security and Software Engineer with a strong foundation in computer science.<br><br>🔭 Currently focusing on embedded systems software security.<br><br>🌱 Continuously learning and experimenting with new technologies and methodologies.<br><br>⚡ Proficient in various aspects of computer science, always eager to tackle new challenges.<br><br>[LinkedIn](https://www.linkedin.com/in/noura-layachi-b6a276213/)
 
 
 ## 🌐 Socials:
